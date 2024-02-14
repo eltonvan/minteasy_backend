@@ -1,4 +1,9 @@
-# Smart_Invest
+# MINT EASY
+
+## Project Description
+Minteasy is a web application that allows users to simulate stock trading. Users can create an account, deposit money, and buy and sell stocks. they get a real time analysis using ai and financial models analysis  The application uses real-time stock data to simulate the stock market. Users can also view their transaction history and portfolio.
+
+this is the backend of the application
 
 # This project only runs with the correct settings and access codes and passwords.
 
@@ -18,11 +23,6 @@
 git clone <project_repository_url>
 ```
 
-### Update the Project
-
-```bash
-git pull
-```
 
 ---
 
